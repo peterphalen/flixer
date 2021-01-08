@@ -70,12 +70,12 @@ const App = createBottomTabNavigator(
 			labelStyle: {
 				fontSize: 14,
 				textTransform: "uppercase",
-				paddingTop: 10
+				paddingTop: 0
 			},
 			style: {
 				backgroundColor: "#FFF",
 				borderTopWidth: 0,
-				paddingVertical: 30,
+				paddingVertical: 0,
 				height: 60,
 				marginBottom: 0,
 				shadowOpacity: 0.05,
